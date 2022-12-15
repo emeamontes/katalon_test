@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd8cf0f3-c8f1-442e-b7e6-3c500a9118e7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d956abd7-c83c-42a1-a4b6-454882f58d89</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Juan\r\n'</defaultValue>
+      <description></description>
+      <id>d956abd7-c83c-42a1-a4b6-454882f58d89</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+</TestCaseEntity>

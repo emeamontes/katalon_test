@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>27d00066-a8c4-4ecf-acf2-2f7addef73e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>use</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>ef227ace-2ed4-4952-966e-0cd9f72bdb5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#hpa-hamburguer-menu</value>
+      <webElementGuid>49062035-3ac2-422b-af90-6ceaa967891c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>#hpa-hamburguer-menu</value>
+      <webElementGuid>0d62c4e4-9ff0-4840-a37f-2ce895bea156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-store-home&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--stickyDesktop&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--stickyDesktop items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild pb0&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--logo&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--logo items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch    flex&quot;]/nav[@class=&quot;vtex-menu-2-x-menuContainerNav vtex-menu-2-x-menuContainerNav--barMenuCategory&quot;]/ul[@class=&quot;vtex-menu-2-x-menuContainer vtex-menu-2-x-menuContainer--barMenuCategory list flex pl0 mv0 flex-row&quot;]/button[@class=&quot;easycl-mega-menu-0-x-triggerContainer pointer&quot;]/svg[@class=&quot;easycl-mega-menu-0-x-triggerButtonIcon easycl-mega-menu-0-x-triggerButtonIcon--active&quot;]/use[1]</value>
+      <webElementGuid>a02e6254-88cf-4a4c-9f1a-37d103dd728d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//use[@href = '#hpa-hamburguer-menu']</value>
+      <webElementGuid>4b5ba506-cba0-4466-a838-99369df869c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

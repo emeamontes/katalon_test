@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Jenkins configuration with Maven and GitHub</name>
+   <tag></tag>
+   <elementGuidId>02da81b7-0703-458d-a16f-cb1df458f974</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='node-232']/header/h2/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>26a83bd6-458c-4494-a09e-5f77456eba9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jenkins-tutorials/configure-maven-github-jenkins-to-run-testng-xml</value>
+      <webElementGuid>bf4b8fd0-135e-485e-9c6f-74bf35966618</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jenkins configuration with Maven and GitHub</value>
+      <webElementGuid>873c8cf0-694f-439c-aa12-4dfbab15955b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;node-232&quot;)/header[1]/h2[1]/a[1]</value>
+      <webElementGuid>89a39a1c-ba7c-4b45-935f-c68c6d67500a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='node-232']/header/h2/a</value>
+      <webElementGuid>088c2b17-a22c-4d4d-8c93-e3a5944337a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Jenkins configuration with Maven and GitHub')]</value>
+      <webElementGuid>41c778c6-efb4-476b-bca5-40505c5b0892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maven Tutorials'])[2]/following::a[1]</value>
+      <webElementGuid>1d280ddd-aeeb-4416-a162-9bbf80008c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>>'])[1]/following::a[2]</value>
+      <webElementGuid>5032d4da-9e45-422c-a361-5b83c365406c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='harrydev'])[1]/preceding::a[1]</value>
+      <webElementGuid>16387b1b-683e-41c6-ae28-ce37770bd295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jenkins configuration with Maven and GitHub']/parent::*</value>
+      <webElementGuid>3b6380da-b633-499d-ada4-ef0c5b0b5f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/jenkins-tutorials/configure-maven-github-jenkins-to-run-testng-xml')]</value>
+      <webElementGuid>026ac4a7-fb43-4397-b992-5c84bd5b4a19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>0cb720b1-b6ef-4f09-bed4-8ce00c6c145b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jenkins-tutorials/configure-maven-github-jenkins-to-run-testng-xml' and (text() = 'Jenkins configuration with Maven and GitHub' or . = 'Jenkins configuration with Maven and GitHub')]</value>
+      <webElementGuid>b2513474-ab99-4495-a95b-3166bdbd048c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

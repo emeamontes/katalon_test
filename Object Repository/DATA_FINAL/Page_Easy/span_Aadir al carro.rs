@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aadir al carro</name>
+   <tag></tag>
+   <elementGuidId>8c0e5af0-38ad-407f-9cf5-a29e61d56e7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gallery-layout-container']/div/section/a/article/button/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.easycl-add-to-cart-button-0-x-buttonText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a10326d8-0c1d-423c-ada8-c443f50bcca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>easycl-add-to-cart-button-0-x-buttonText</value>
+      <webElementGuid>598ac318-adc3-4011-8e37-cb99a360eb73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Añadir al carro</value>
+      <webElementGuid>dc01c939-495b-441b-a6f1-4c4b17118454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gallery-layout-container&quot;)/div[@class=&quot;easycl-search-result-0-x-galleryItem easycl-search-result-0-x-galleryItem--normal easycl-search-result-0-x-galleryItem--grid pa4&quot;]/section[@class=&quot;vtex-product-summary-2-x-container vtex-product-summary-2-x-container--gridLayout vtex-product-summary-2-x-containerNormal vtex-product-summary-2-x-containerNormal--gridLayout overflow-hidden br3 h-100 w-100 flex flex-column justify-between center tc&quot;]/a[@class=&quot;vtex-product-summary-2-x-clearLink vtex-product-summary-2-x-clearLink--gridLayout h-100 flex flex-column&quot;]/article[@class=&quot;vtex-product-summary-2-x-element vtex-product-summary-2-x-element--gridLayout pointer pt3 pb4 flex flex-column h-100&quot;]/button[@class=&quot;vtex-button bw1 ba fw5 v-mid relative pa0 lh-solid br2 min-h-regular t-action bg-action-primary b--action-primary c-on-action-primary hover-bg-action-primary hover-b--action-primary hover-c-on-action-primary pointer w-100&quot;]/div[@class=&quot;vtex-button__label flex items-center justify-center h-100 ph6 w-100 border-box&quot;]/div[@class=&quot;easycl-add-to-cart-button-0-x-buttonDataContainer flex justify-center&quot;]/span[@class=&quot;easycl-add-to-cart-button-0-x-buttonText&quot;]</value>
+      <webElementGuid>5e76f6f0-0f51-46c7-ae93-72708d46469f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gallery-layout-container']/div/section/a/article/button/div/div/span</value>
+      <webElementGuid>926f39ff-5cb8-48cd-bd73-ac246f9aad99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$49.990'])[1]/following::span[1]</value>
+      <webElementGuid>c342fbfd-78a7-4e55-8e91-16bc38dbb176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carro organizador 3 niveles Cotidiana.'])[1]/following::span[1]</value>
+      <webElementGuid>b85fdaa8-825d-47b2-a352-6d0b1f57bdcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seguimiento de compras'])[1]/preceding::span[2]</value>
+      <webElementGuid>cd910ff7-61be-44f0-8be7-80551f7d449e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conoce el estado de tu orden'])[1]/preceding::span[3]</value>
+      <webElementGuid>2de2861e-a8fe-43b2-bede-cde1a62f19df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Añadir al carro']/parent::*</value>
+      <webElementGuid>5d797243-8738-4dce-9fe3-443e01d86430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/span</value>
+      <webElementGuid>e7806304-053f-4438-930f-2c5273667e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Añadir al carro' or . = 'Añadir al carro')]</value>
+      <webElementGuid>b7feb5f3-716c-4ba7-b1be-c1a6165661d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

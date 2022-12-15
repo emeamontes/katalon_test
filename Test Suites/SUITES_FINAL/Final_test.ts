@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Final_test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>25cfa720-e720-4e03-8928-ff95aa872ede</testSuiteGuid>
+   <testCaseLink>
+      <guid>6b16e38b-19cf-489a-b7d9-be8d9319a592</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Evaluacion_Curso_Katalon/Test_principal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ed986b54-8a56-4729-abf0-e1c348f7af3a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Evaluacion_Curso_Katalon/Test_ddrop</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f390ce73-7137-47ce-a70d-5857ab944de1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Evaluacion_Curso_Katalon/Test_descarga_carga</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2b3bfcfa-1407-4029-8f5d-4405f8139537</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>486a6c8a-7126-4af7-80ce-ab7b30d9b68d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Evaluacion_Curso_Katalon/Test_excel</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8a1314bd-23fb-479c-b1ba-eb04686ec382</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test_final/Excel</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8a1314bd-23fb-479c-b1ba-eb04686ec382</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FullName</value>
+         <variableId>52649ce0-d6ca-4b19-a8f3-d70794147820</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8a1314bd-23fb-479c-b1ba-eb04686ec382</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>3f263133-f9d2-4835-834e-01aa3f367cd2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8a1314bd-23fb-479c-b1ba-eb04686ec382</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CurrentAddress</value>
+         <variableId>26c3df53-6d62-4d9b-8f56-955422350815</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8a1314bd-23fb-479c-b1ba-eb04686ec382</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PermanentAddress</value>
+         <variableId>d2b920e4-a623-45ef-a72d-8bc8fbae12b4</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_descarga_carga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd89afe7-46bd-4d2c-8d69-c8468a19c36b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b3bfcfa-1407-4029-8f5d-4405f8139537</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>2b3bfcfa-1407-4029-8f5d-4405f8139537</id>
+      <masked>false</masked>
+      <name>presente</name>
+   </variable>
+</TestCaseEntity>

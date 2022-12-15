@@ -1,0 +1,46 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.htmlquick.com/es/reference/tags/select.html')
+
+WebUI.maximizeWindow()
+
+WebUI.scrollToPosition(0, 2000)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Screenshot/Page_Elemento select/select_Ftbol      Crquet      Bsquetbol    _80b0d8'), 
+    'Críquet', true)
+
+String foto = WebUI.takeScreenshot()
+WebUI.takeScreenshot("C:\\Users\\Monte\\Katalon Studio\\Sample - Web API Tests\\T_Imagenes\\test1.png")
+
+WebUI.click(findTestObject('Object Repository/Screenshot/Page_Elemento select/input'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Screenshot/Page_Elemento select/select_Ftbol      Crquet      Bsquetbol    _80b0d8'), 
+    'Básquetbol', true)
+
+WebUI.click(findTestObject('Object Repository/Screenshot/Page_Elemento select/input'))
+
+WebUI.switchToWindowTitle('Datos enviados por el formulario')
+
+WebUI.click(findTestObject('Object Repository/Screenshot/Page_Datos enviados por el formulario/caption_Datos enviados con el mtodo GET'))
+
+WebUI.closeBrowser()
+

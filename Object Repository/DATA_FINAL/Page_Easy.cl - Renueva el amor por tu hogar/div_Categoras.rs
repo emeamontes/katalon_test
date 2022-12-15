@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Categoras</name>
+   <tag></tag>
+   <elementGuidId>0bd1b855-c4ec-44cf-b1fb-2bfb87e4f244</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiendas'])[1]/following::div[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vtex-menu-2-x-styledLinkContent.vtex-menu-2-x-styledLinkContent--barMenuCategory.flex.justify-between.nowrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bdcbab09-63fc-49e6-b039-ea1a7415dff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-menu-2-x-styledLinkContent vtex-menu-2-x-styledLinkContent--barMenuCategory flex justify-between nowrap</value>
+      <webElementGuid>db9f60b8-78d9-40a1-8408-343948a6224c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Categorías</value>
+      <webElementGuid>14932e10-71c8-4822-adea-5045f2d7f58a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-store-home&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--stickyDesktop&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--stickyDesktop items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild pb0&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--logo&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--logo items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch    flex&quot;]/nav[@class=&quot;vtex-menu-2-x-menuContainerNav vtex-menu-2-x-menuContainerNav--barMenuCategory&quot;]/ul[@class=&quot;vtex-menu-2-x-menuContainer vtex-menu-2-x-menuContainer--barMenuCategory list flex pl0 mv0 flex-row&quot;]/li[@class=&quot;vtex-menu-2-x-menuItem vtex-menu-2-x-menuItem--barMenuCategory list vtex-menu-2-x-menuItem vtex-menu-2-x-menuItem--barMenuCategory vtex-menu-2-x-menuItem--isOpen vtex-menu-2-x-menuItem--barMenuCategory--isOpen&quot;]/div[@class=&quot;vtex-menu-2-x-styledLinkContainer vtex-menu-2-x-styledLinkContainer--barMenuCategory mh6 pv5&quot;]/span[@class=&quot;vtex-menu-2-x-styledLink vtex-menu-2-x-styledLink--barMenuCategory no-underline pointer t-body c-on-base pointer&quot;]/div[@class=&quot;vtex-menu-2-x-styledLinkContent vtex-menu-2-x-styledLinkContent--barMenuCategory flex justify-between nowrap&quot;]</value>
+      <webElementGuid>64a2e4d8-98bc-4ed0-be4f-cf31f80f5336</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiendas'])[1]/following::div[11]</value>
+      <webElementGuid>87990b2a-fcbb-4885-897b-dd073e0ee251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis compras'])[1]/following::div[11]</value>
+      <webElementGuid>9bc0e572-4a5b-49f7-8dad-d0d390d7954c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicia sesión'])[1]/preceding::div[17]</value>
+      <webElementGuid>749a0205-5e2b-4ad1-b3a8-36c471a17ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Categorías']/parent::*</value>
+      <webElementGuid>a3fd7076-1f62-4c31-b815-f1ec7a657139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>181bd51e-ea52-4e93-8591-4b0bd09f2e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Categorías' or . = 'Categorías')]</value>
+      <webElementGuid>6033f248-31e3-4851-8a6c-f8b51d850cf3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
